@@ -3,8 +3,8 @@ import React from 'react';
 const SettledLoans = () => {
   // Sample data for the table
   const settledLoansData = [
-    { id: 1, firstName: 'John', lastName: 'Doe', email: 'john.doe@example.com', status: 'Settled', phone: '123-456-7890' },
-    { id: 2, firstName: 'Jane', lastName: 'Smith', email: 'jane.smith@example.com', status: 'Settled', phone: '098-765-4321' },
+    { id: 1, firstName: 'Uvyne', lastName: 'Rop', email: 'uvynerop@gmail.com', status: 'Settled', phone: '123-456-7890' },
+    { id: 2, firstName: 'Jane', lastName: 'Smith', email: 'jane.smith@example.com', status: 'pending', phone: '098-765-4321' },
     // Add more data as needed
   ];
 

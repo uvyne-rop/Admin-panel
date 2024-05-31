@@ -2,14 +2,14 @@ import React from 'react';
 
 const Dashboard = () => {
   const loanApplications = [
-    { firstName: 'John', lastName: 'Doe', phoneNumber: '123-456-7890', loanApplied: '$5000' },
+    { firstName: 'Uvyne', lastName: 'Rop', phoneNumber: '123-456-7890', loanApplied: '$5000' },
     { firstName: 'Jane', lastName: 'Smith', phoneNumber: '098-765-4321', loanApplied: '$10000' },
     // Add more data as needed
   ];
 
   const userProfile = {
-    firstName: 'John',
-    lastName: 'Doe',
+    firstName: 'Uvyne',
+    lastName: 'Rop',
     email: 'john.doe@example.com',
     phone: '123-456-7890',
     loanAmount: '$5000',
